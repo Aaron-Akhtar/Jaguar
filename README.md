@@ -14,7 +14,9 @@ res_file - file to store brutes in.
 ```
 
 Install Java Commands:
+
 ubuntu: apt-get install default-jre
+
 centos: yum install java
 
 Or on Windows browse for the installer.
